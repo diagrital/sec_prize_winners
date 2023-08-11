@@ -4,13 +4,6 @@ Created on Fri Aug 11 13:51:22 2023
 
 @author: aspirex99
 """
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 11 13:42:29 2023
-
-@author: aspirex99
-"""
 import base64
 import streamlit as st
 import plotly.express as px
